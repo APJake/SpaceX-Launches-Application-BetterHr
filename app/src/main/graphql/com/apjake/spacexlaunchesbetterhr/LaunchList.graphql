@@ -1,0 +1,11 @@
+query LaunchList($limit: Int, $offset: Int){
+    launches(limit: $limit, offset: $offset) {
+        id
+        launch_date_local
+        mission_name
+        mission_id
+        links {
+            flickr_images
+        }
+    }
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceX Launches (Better Hr)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="launch">Launch</string>
+    <string name="detail">Detail:</string>
+
+    <string name="twitter_link">Twitter: %1$s</string>
+    <string name="wiki_link">Wikipedia: %1$s</string>
+</resources>
